@@ -1,0 +1,25 @@
+﻿  Building 'KMDF Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\KMDFDriver1.inf
+  Stamping [Version] section with DriverVer=03/03/2020,15.58.28.713
+  main.c
+C:\Users\df\Desktop\KMDF Driver1\KMDF Driver1\main.c(4,34): warning C4100: “driver”: 未引用的形参
+C:\Users\df\Desktop\KMDF Driver1\KMDF Driver1\main.c(11,61): warning C4100: “reg_path”: 未引用的形参
+  KMDF Driver1.vcxproj -> C:\Users\df\Desktop\KMDF Driver1\Debug\KMDFDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\df\Desktop\KMDF Driver1\Debug\KMDFDriver1.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\df\Desktop\KMDF Driver1\Debug\KMDF Driver1\kmdfdriver1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\df\Desktop\KMDF Driver1\Debug\KMDF Driver1\kmdfdriver1.cat
+  
